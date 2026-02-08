@@ -1,21 +1,16 @@
 <div align="center">
 
-<a href="">
 <img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/4ae57dfb-4f18-4677-9136-43bf93017250" />
-</a>
 
 <br/>
 <br/>
 
-<div align="center">
-    <strong>Discover ways of how people are really using OpenClaw (previously ClawdBot, MoltBot) in their daily life. 
-    </strong>
-    <br />
-    <br />
-</div>
+<strong>Discover ways of how people are really using OpenClaw (previously ClawdBot, MoltBot) in their daily life.
+</strong>
+<br />
+<br />
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 ![Use Cases](https://img.shields.io/badge/usecases-4-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/hesamsheikh/awesome-openclaw-usecases?label=Last%20Update&style=flat-square)
 </div>
@@ -51,7 +46,7 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 
 ## 🤝 Contributing
 
-We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for  guidelines.
+We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 - Add a new usecase
 - Improve existing ones
