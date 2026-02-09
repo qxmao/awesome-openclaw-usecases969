@@ -11,7 +11,7 @@
 <br />
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Use Cases](https://img.shields.io/badge/usecases-10-blue?style=flat-square)
+![Use Cases](https://img.shields.io/badge/usecases-11-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/hesamsheikh/awesome-openclaw-usecases?label=Last%20Update&style=flat-square)
 </div>
 
@@ -42,6 +42,7 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 | [Personal CRM](usecases/personal-crm.md) | Automatically discover and track contacts from your email and calendar, with natural language queries. |
 | [Health & Symptom Tracker](usecases/health-symptom-tracker.md) | Track food intake and symptoms to identify triggers, with scheduled check-in reminders. |
 | [Multi-Channel Personal Assistant](usecases/multi-channel-assistant.md) | Route tasks across Telegram, Slack, email, and calendar from a single AI assistant. |
+| [Todoist Task Manager](usecases/todoist-task-manager.md) | Maximize agent transparency by syncing reasoning and progress logs to Todoist. |
 
 ## Research & Learning
 
